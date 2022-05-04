@@ -1,0 +1,37 @@
+_repo: Venti-anni-dopo_67846
+_version: 0.0.1
+alternative_title: Vingt ans après. Italian
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - père, Alexandre Dumas
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas
+description: '"Seguito dei tre Moschettieri."'
+gutenberg_issued: '2022-04-15'
+identifiers:
+  gutenberg: '67846'
+language: it
+pgterms:marc905: 20190207082706dumas
+pgterms:marc906: '1848'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by Google Books)
+publication_note: Italy :1848.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715 -- Fiction'
+- GITenberg
+title: Venti anni dopo
+url: http://www.gutenberg.org/ebooks/67846
