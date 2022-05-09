@@ -1,6 +1,9 @@
 _repo: Venti-anni-dopo_67846
 _version: 0.1.0
 alternative_title: Vingt ans après. Italian
+covers:
+- cover_type: archival
+  image_path: 67846-h/images/cover.jpg
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
     - https://fr.wikipedia.org/wiki/Alexandre_Dumas
 description: '"Seguito dei tre Moschettieri."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67846#Venti-anni-dopo
 gutenberg_issued: '2022-04-15'
 identifiers:
   gutenberg: '67846'
